@@ -1,0 +1,24 @@
+Java8 features
+----------------
+1. Interface Enhancement
+2. Functional Interface
+3. Lambda Expression
+4. Stream API
+5. Date Time API
+----------------------------
+ Interface Enhancement
+default methods were introduced, which helped to add new features without changing existing classes 
+hence enabling backward compatibility, also default methods gets accessed from implementing classes
+static methods are same as default but static method dont get available in implementing class
+
+Functional Interface(SAM)- Single Abstract Method
+-----------------------
+1. Must have only 1 Abstract Method
+2. Can have Static methods
+3. Can have default methods
+
+Predicates
+-----------
+-> Predefined Functional Interface
+-> Return boolean
+https://www.baeldung.com/java-predicate-chain
