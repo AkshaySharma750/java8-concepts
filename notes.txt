@@ -22,3 +22,7 @@ Predicates
 -> Predefined Functional Interface
 -> Return boolean
 https://www.baeldung.com/java-predicate-chain
+
+map
+------
+Helps to transform data
